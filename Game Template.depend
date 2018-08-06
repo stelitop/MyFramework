@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1533548157 source:c:\users\user\desktop\things that involve stuff\c++\all sfml bullshit (most of it)\game template\main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	"Particle.h"
+
+1533132602 source:c:\users\user\desktop\things that involve stuff\c++\all sfml bullshit (most of it)\game template\src\button.cpp
+	"Button.h"
+
+1533140906 c:\users\user\desktop\things that involve stuff\c++\all sfml bullshit (most of it)\game template\src\button.h
+	<SFML/Graphics.hpp>
+
+1532942209 source:c:\users\user\desktop\things that involve stuff\c++\all sfml bullshit (most of it)\game template\src\textures.cpp
+	"Textures.h"
+
+1533132933 c:\users\user\desktop\things that involve stuff\c++\all sfml bullshit (most of it)\game template\src\textures.h
+	<iostream>
+	<map>
+	<SFML/Graphics.hpp>
+	<map>
+	<vector>
+
+1533131223 source:c:\users\user\desktop\things that involve stuff\c++\all sfml bullshit (most of it)\game template\src\sfml additions\vector2operators.cpp
+	"Vector2Operators.h"
+
+1533131223 c:\users\user\desktop\things that involve stuff\c++\all sfml bullshit (most of it)\game template\src\sfml additions\vector2operators.h
+	<SFML/Graphics.hpp>
+
+1533132190 c:\users\user\desktop\things that involve stuff\c++\all sfml bullshit (most of it)\game template\src\sfml_additions\vector2operators.h
+	<SFML/Graphics.hpp>
+
+1533131849 source:c:\users\user\desktop\things that involve stuff\c++\all sfml bullshit (most of it)\game template\src\sfml_additions\vector2operators.cpp
+	"Vector2Operators.h"
+
+1533203076 source:c:\users\user\desktop\things that involve stuff\c++\all sfml bullshit (most of it)\game template\src\motion.cpp
+	"Motion.h"
+
+1533145277 c:\users\user\desktop\things that involve stuff\c++\all sfml bullshit (most of it)\game template\src\motion.h
+	<SFML/Graphics.hpp>
+
+1533548379 source:c:\users\user\desktop\things that involve stuff\c++\all sfml bullshit (most of it)\game template\src\particle.cpp
+	"Particle.h"
+
+1533548561 c:\users\user\desktop\things that involve stuff\c++\all sfml bullshit (most of it)\game template\src\particle.h
+	<iostream>
+	<SFML/Graphics.hpp>
+	<vector>
+	<ctime>
+
